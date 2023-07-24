@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bikram Adhikarri
 - 👀 I’m interested in web developing, designing and software engineering.
 - 🌱 I’m currently learning full-stack development.
-- 💞️ I’m looking to collaborate on font-end, back-end, full-stack developing, SDLC and Engineering.
+- 👨🏽‍💻 I’m looking to collaborate on font-end, back-end, full-stack developing, SDLC and Engineering.
   
 
 <!---
